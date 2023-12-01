@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-with-tailwindcss-p-gN_hgVd1)
+- Live Site URL: [Netlify](https://fm-challenge-faq-accordion.netlify.app/)
 
 ## My process
 
