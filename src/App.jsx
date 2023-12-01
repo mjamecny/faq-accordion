@@ -33,7 +33,7 @@ export default function App() {
 
   return (
     <div className="flex justify-center items-center relative bg-lightPink p-2.4 h-screen">
-      <div className="absolute top-[0px] left-[0px] bg-[url('./public/background-pattern-mobile.svg')] xl:bg-[url('./public/background-pattern-desktop.svg')] bg-cover bg-no-repeat w-full h-[232px]"></div>
+      <div className="absolute top-[0px] left-[0px] bg-[url('../public/background-pattern-mobile.svg')] xl:bg-[url('../public/background-pattern-desktop.svg')] bg-cover bg-no-repeat w-full h-[232px]"></div>
       <div className="bg-white p-2.4 rounded-xl z-20 max-w-xl">
         <h1 className="flex items-center gap-1.6 font-bold text-3 xl:text-5.2 text-darkPurple">
           <img
